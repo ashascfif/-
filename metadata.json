@@ -1,0 +1,5 @@
+{
+  "name": "VoxGemini - AI Voice Synthesis",
+  "description": "Advanced text-to-speech application powered by Gemini, featuring mood presets and celebrity-inspired voice profiles.",
+  "requestFramePermissions": []
+}
